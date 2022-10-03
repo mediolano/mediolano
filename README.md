@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋, I'm David</h1> <br>
 
+🌱 I’m currently learning and growing. 
+
+Looking for 1st job oppurtunity as Junior Front End.
 <!--
 **mediolano/mediolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
